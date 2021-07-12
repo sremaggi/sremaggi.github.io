@@ -16,6 +16,11 @@
   border: 5px solid;
   z-index: 2; }
 
+  .img1{
+    display:block;
+    margin:auto;
+    }
+
 .timeline-body {
   border-left: 2px solid #E6E9ED; }
 
